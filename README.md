@@ -1,6 +1,7 @@
 # Easy-Unet-for-CT-Reconstruction
 
 # Directory structure
+
 ├── data/
 
 │   ├── img/
